@@ -1,0 +1,8 @@
+$ yarn create react-app admin
+$ cd admin
+
+# Install react-admin dependencies
+$ yarn add react-admin ra-data-json-server prop-types
+
+# Run
+$ yarn start
